@@ -1,0 +1,15 @@
+/out/
+/target/
+/*-init.clj
+/*.log
+
+/.nrepl-port
+
+# clj-kondo cache and configs from libs
+/.clj-kondo/*
+
+# clj-kondo config
+!/.clj-kondo/config.edn
+
+# clojure-lsp cache
+/.lsp/.cache
